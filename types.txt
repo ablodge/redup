@@ -1,0 +1,132 @@
+alright	1	"[('NN', 1)]"	inj
+bla	1	"[('NN', 1)]"	inj
+blah	2	"[('NN', 2)]"	inj
+bucs	1	"[('NN', 1)]"	inj
+bye	3	"[('NNP', 2), ('NN', 1)]"	inj
+cmon	1	"[('NNP', 1)]"	inj
+coco	1	"[('NN', 1)]"	inj
+ect	1	"[('NN', 1)]"	inj
+etc	6	"[('NN', 4), ('FW', 2)]"	inj
+fuck	16	"[('NNP', 1), ('VBN', 1), ('JJ', 13), ('NN', 1)]"	inj
+go	2	"[('VB', 1), ('VBP', 1)]"	inj
+guys	1	"[('NNP', 1)]"	inj
+ha	1	"[('NN', 1)]"	inj
+hey	1	"[('NNP', 1)]"	inj
+hype	1	"[('NN', 1)]"	inj
+nah	1	"[('NN', 1)]"	inj
+no	8	"[('NNP', 1), ('DT', 7)]"	inj
+nope	2	"[('NN', 1), ('VBP', 1)]"	inj
+oh	1	"[('JJ', 1)]"	inj
+ok	2	"[('PRP', 1), ('NN', 1)]"	inj
+omg	2	"[('NN', 2)]"	inj
+please	3	"[('VB', 2), ('NN', 1)]"	inj
+pls	1	"[('NN', 1)]"	inj
+shit	1	"[('VBP', 1)]"	inj
+slut	1	"[('NN', 1)]"	inj
+stupid	1	"[('NN', 1)]"	inj
+tsk	1	"[('NNP', 1)]"	inj
+tut	1	"[('NNP', 1)]"	inj
+usa	1	"[('NNP', 1)]"	inj
+wa	1	"[('NN', 1)]"	inj
+wait	1	"[('NN', 1)]"	inj
+whoa	1	"[('NN', 1)]"	inj
+yes	1	"[('NN', 1)]"	inj
+yum	1	"[('NNP', 1)]"	inj
+awful	2	"[('JJ', 2)]"	intens
+big	1	"[('JJ', 1)]"	intens
+double	1	"[('JJ', 1)]"	intens
+far	1	"[('RB', 1)]"	intens
+filthy	1	"[('JJ', 1)]"	intens
+highly	1	"[('RB', 1)]"	intens
+hot	1	"[('NNP', 1)]"	intens
+long	2	"[('JJ', 2)]"	intens
+love	1	"[('VB', 1)]"	intens
+many	3	"[('JJ', 3)]"	intens
+much	2	"[('RB', 2)]"	intens
+really	11	"[('RB', 11)]"	intens
+so	5	"[('RB', 5)]"	intens
+super	2	"[('JJ', 2)]"	intens
+sweet	1	"[('JJ', 1)]"	intens
+very	8	"[('NNP', 2), ('RB', 6)]"	intens
+hear	2	"[('NN', 1), ('JJ', 1)]"	lex
+night	1	"[('NN', 1)]"	lex
+person	1	"[('NN', 1)]"	lex
+something	4	"[('NN', 4)]"	lex
+suprise	1	"[('NN', 1)]"	lex
+win	1	"[('JJ', 1)]"	lex
+a	1	"[('DT', 1)]"	misc
+and	1	"[('CC', 1)]"	misc
+are	2	"[('VBP', 2)]"	misc
+as	1	"[('RB', 1)]"	misc
+at	1	"[('IN', 1)]"	misc
+be	1	"[('VB', 1)]"	misc
+because	1	"[('IN', 1)]"	misc
+biggie	1	"[('NN', 1)]"	misc
+boost	2	"[('NNP', 2)]"	misc
+but	2	"[('CC', 2)]"	misc
+caps	1	"[('NNP', 1)]"	misc
+chitty	1	"[('NNP', 1)]"	misc
+dere	2	"[('NNP', 2)]"	misc
+doki	1	"[('NNP', 1)]"	misc
+draft	1	"[('NNP', 1)]"	misc
+dragon	1	"[('NNP', 1)]"	misc
+duran	1	"[('NNP', 1)]"	misc
+end	1	"[('NN', 1)]"	misc
+for	3	"[('IN', 3)]"	misc
+gabba	1	"[('NNP', 1)]"	misc
+get	1	"[('VB', 1)]"	misc
+got	1	"[('VBD', 1)]"	misc
+grab	3	"[('NNP', 3)]"	misc
+had	4	"[('VBD', 4)]"	misc
+has	1	"[('VBZ', 1)]"	misc
+have	2	"[('VB', 2)]"	misc
+her	1	"[('PRP$', 1)]"	misc
+his	1	"[('PRP$', 1)]"	misc
+hobnob	1	"[('NN', 1)]"	misc
+i	1	"[('PRP', 1)]"	misc
+in	5	"[('IN', 5)]"	misc
+is	5	"[('VBZ', 5)]"	misc
+it	6	"[('PRP', 6)]"	misc
+jar	1	"[('NNP', 1)]"	misc
+ladyboy	1	"[('NN', 1)]"	misc
+like	1	"[('IN', 1)]"	misc
+louie	1	"[('NNP', 1)]"	misc
+mariota	1	"[('NNP', 1)]"	misc
+mur	1	"[('NNP', 1)]"	misc
+of	4	"[('IN', 4)]"	misc
+off	1	"[('RP', 1)]"	misc
+or	1	"[('CC', 1)]"	misc
+other	1	"[('JJ', 1)]"	misc
+p	2	"[('NNP', 2)]"	misc
+people	1	"[('NNS', 1)]"	misc
+phi	1	"[('NNP', 1)]"	misc
+same	1	"[('JJ', 1)]"	misc
+short	1	"[('RB', 1)]"	misc
+sierra	1	"[('NNP', 1)]"	misc
+that	10	"[('IN', 4), ('DT', 6)]"	misc
+the	18	"[('DT', 18)]"	misc
+to	6	"[('TO', 6)]"	misc
+trollabot	1	"[('NN', 1)]"	misc
+tsun	2	"[('NNP', 2)]"	misc
+use	1	"[('VB', 1)]"	misc
+usually	1	"[('RB', 1)]"	misc
+watch	1	"[('IN', 1)]"	misc
+who	1	"[('WP', 1)]"	misc
+with	1	"[('IN', 1)]"	misc
+you	1	"[('PRP', 1)]"	misc
+bang	1	"[('NNP', 1)]"	onom
+blap	1	"[('JJ', 1)]"	onom
+boom	1	"[('NNP', 1)]"	onom
+clap	1	"[('NN', 1)]"	onom
+diddle	1	"[('NNP', 1)]"	onom
+dun	4	"[('NNP', 4)]"	onom
+dur	1	"[('NNP', 1)]"	onom
+fap	2	"[('NN', 2)]"	onom
+honk	1	"[('NN', 1)]"	onom
+hur	1	"[('NNP', 1)]"	onom
+noot	3	"[('NN', 3)]"	onom
+nudge	1	"[('NN', 1)]"	onom
+rabble	1	"[('NN', 1)]"	onom
+wink	1	"[('VBP', 1)]"	onom
+yada	2	"[('NN', 1), ('NNP', 1)]"	onom
+zoom	1	"[('NNP', 1)]"	onom
